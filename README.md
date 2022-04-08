@@ -16,6 +16,11 @@ Adds the specified file to the staging area so that it can be commited later. Al
 
 Adds all files present in current folder to the staging area.
 
+### Removing a file from the staging area:
+
+```git rm --cached <filename>```
+
+
 ### Commiting files and other related tasks
 
 ```git commit -m "comment"```
