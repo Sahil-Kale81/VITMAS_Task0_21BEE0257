@@ -60,3 +60,7 @@ Pushes or uploads all files from user's local repository to the remote repositor
 ```git pull```
 
 This will "pull" i.e. download all the content from a remote repository to your local repostiory.
+
+### Demo Video link:
+
+https://youtu.be/nXhuLwMaupM
